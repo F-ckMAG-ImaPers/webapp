@@ -1,0 +1,11 @@
+
+
+sudo apt update
+sudo apt install npm
+sudo apt install nodejs/ nvm install 16
+npm i -d typescript
+tsc --init
+npm i -D typescript @types/react @types/node
+npm run dev
+
+/*Download extencions debugger js,sylelint,eslint*/
